@@ -14,3 +14,6 @@
 ## 参考资料
 * https://hub.docker.com/
 * https://github.com/docker-library/docs/issues/723
+* 编写 Dockerfile 构建镜像 https://www.wumingx.com/k8s/docker-Dockerfile.html
+* laradock 参考 https://github.com/laradock/laradock/blob/master/php-fpm/Dockerfile
+ 
