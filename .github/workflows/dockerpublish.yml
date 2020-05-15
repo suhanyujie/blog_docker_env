@@ -15,7 +15,7 @@ on:
 
 env:
   # TODO: Change variable to your image's name.
-  IMAGE_NAME: blog_php_img
+  IMAGE_NAME: suhanyujie/blog_php_img
 
 jobs:
   # Run tests.
